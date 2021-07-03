@@ -8,5 +8,5 @@ I'm Xiang Zhang
 - 👨‍🦳 Father of a daughter
 - 📍 苏州.
 - 📫 How to reach me: ...
-- 🍎 Mission: <font size=3>Make Developer Happier</font>
+- 🍎 Mission: __Make Developer Happier__
 
