@@ -1,4 +1,6 @@
-### Hi there, I'm Xiang Zhang 👋
+### Hi there 👋
+
+I'm Xiang Zhang
 
 - 🔭 I’m currently working on Javascript
 - 🌱 I’m currently learning Paython
@@ -6,5 +8,5 @@
 - 👨‍🦳 Father of a daughter
 - 📍 苏州.
 - 📫 How to reach me: ...
-- 🍎 Mission: Make Developer Happier
+- 🍎 Mission: <h3>Make Developer Happier</h3>
 
